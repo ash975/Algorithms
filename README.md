@@ -1,6 +1,6 @@
 # Algorithms 作业代码
 
-![Algorithms](./doc/cover.png)
+![Algorithms](./doc/cover.png =200x)
 
 ## 课程链接：
 
