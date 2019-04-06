@@ -1,6 +1,6 @@
 # Algorithms 作业备份
 
-![Algorithms]()
+![Algorithms](./doc/cover.png)
 
 ## 课程链接：
 
